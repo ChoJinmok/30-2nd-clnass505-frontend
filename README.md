@@ -1,16 +1,36 @@
-## 🚨클나쓰505🆘
+# :pushpin: 클나쓰505
 
-- [클래스101](https://class101.net/)을 모티브로 삼아 다양한 강의를 소비하며 제작도 할 수 있는 사이트입니다.
+> [클래스101](https://class101.net/)을 모티브삼아 다양한 강의를 소비하며 제작도 할 수 있는 서비스
 
-## 프로젝트 기간
+</br>
 
-2022.03.14.월 ~ 2022.03.25.금
+## 1. 제작 기간 & 참여 인원
 
-## 프로젝트 참여 인원
+- 2022년 3월 14일 ~ 3월 25일
+- 프론트 엔드 : [노유정](https://github.com/YOOKIKI), [신윤지](https://github.com/tl1l1l1s), [조진목](https://github.com/ChoJinmok)
+- 백엔드 : [김동규](https://github.com/pasitoapasito), [박건우](https://github.com/97woo), [이지원](https://github.com/geewl)
 
-프론트 엔드 : [조진목](https://github.com/ChoJinmok) , [신윤지]() , [노유정](https://github.com/YOOKIKI)
-<
-백엔드 : 박건우 , 김동규 , 이지원
+</br>
+
+## 2. 사용 기술
+
+#### `Front-end`
+
+- React.js(v17)
+- react-router-dom(v6)
+- styled-components
+- JavaScript
+- HTML5 / CSS
+- Git
+
+#### `Communication`
+
+- GitHub
+- Slack
+- Trello
+- Notion
+
+</br>
 
 ## 필수 구현 사항
 
